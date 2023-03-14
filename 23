@@ -145,7 +145,7 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 https://stmv1.painelvideo.top/gmusic/gmusic/chunklist_w1243269784.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospelmusic.jpg" group-title="Música",Gospel Music
-https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+https://stmv1.painelvideo.top/gmusic/gmusic/chunklist_w1243269784.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="Pública", FonteTV 
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
