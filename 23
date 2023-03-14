@@ -144,10 +144,10 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="Filmes",Gospel Movie TV
 https://stmv1.painelvideo.top/gmusic/gmusic/chunklist_w1243269784.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospelmusic.jpg" group-title="Música",Gospel Music
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospelmusic.jpg" group-title="Música",Música Gospel
 https://stmv1.painelvideo.top/gmusic/gmusic/chunklist_w1243269784.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="Pública", FonteTV 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="Pública", FonteTV
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="Filmes",CBC Gospel
