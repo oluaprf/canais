@@ -3,6 +3,14 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rl_k45mCdk23BHODbAaEoT_4UnumRSs_pUCHd5HpLDRmCKtbRR5M7s92q9xV5dLSilA&usqp=CAU" group-title="Aberta",Getsêmani Monte Alto
 https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/media_files_prod/uploads/tertiarygroup/2056/tertiarygroup-92316041c22a3639e7046de1f40cd41f.png" group-title="Religioso", Rede super
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1678388809/ei/6NkJZJT0PJGD-LAPuqOmgAM/
+ip/177.87.233.200/id/I6xJUM44f7A.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/
+manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/
+playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2
+Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgEWa9y4UwE-Ze1EJMjgLAsgF3ctdM4oUBov76q5pAjBACIQD-
+SvVFDuYm-zXMszQJIgrAW80Vf5AvSVoYSDkW57v2FQ%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo RJ
 https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401678824045129556874616787376451733203557NQTiTUmr3vDubbZPr8E_vw/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=96000-video=2262976.m3u8?dvr_window_length=120
 
