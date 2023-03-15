@@ -4,8 +4,7 @@
 https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/media_files_prod/uploads/tertiarygroup/2056/tertiarygroup-92316041c22a3639e7046de1f40cd41f.png" group-title="Religioso", Rede super
-https://playback2.akamaized.net/streams/10205943_10199127_lsi54s0hqihbdd8i9uh_1/exp=1678913485~acl=%2f*~data=hdntl~hmac=189f5c98f83654ed5926f7ed6f876b99d044ff3c121106d9ce3b6e72bc608524/
-media/10205943_10199127_lsi54s0hqihbdd8i9uh_1@1756000p.m3u8
+https://playback2.akamaized.net/streams/10205943_10199127_lsi5jdy902j8q0l6dv9_1/exp=1678975827~acl=%2f*~data=hdntl~hmac=fe272e4e731b3bead9f76f167733913ec19352786dc1e3d32afaab02c15301e7/media/10205943_10199127_lsi5jdy902j8q0l6dv9_1@1756000p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo RJ
 https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401678908389141849253916788219891803837289DHpIC-rcsEcbJUc6EreR7Q/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=96000-video=2262976.m3u8?dvr_window_length=120
