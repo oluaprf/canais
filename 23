@@ -8,10 +8,10 @@ https://playback2.akamaized.net/streams/10205943_10199127_lsi54s0hqihbdd8i9uh_1/
 media/10205943_10199127_lsi54s0hqihbdd8i9uh_1@1756000p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo RJ
-https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401678824045129556874616787376451733203557NQTiTUmr3vDubbZPr8E_vw/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=96000-video=2262976.m3u8?dvr_window_length=120
+https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401678908389141849253916788219891803837289DHpIC-rcsEcbJUc6EreR7Q/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=96000-video=2262976.m3u8?dvr_window_length=120
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo SP
-https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401678824100709952260916787377004936669723qx3Iti1HNiJfMkX5-kqN2g/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-sp1/globo-sp1-audio_1=128000-video=2378944.m3u8?dvr_window_length=120
+https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401678908426762051075516788220261255646037n2F_dhPBG-BzfJn-tPVw5w/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-sp1/globo-sp1-audio_1=128000-video=2378944.m3u8?dvr_window_length=120
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
