@@ -1,16 +1,15 @@
 #EXTM3U
 
+https://raw.githubusercontent.com/oluaprf/canais/main/23
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rl_k45mCdk23BHODbAaEoT_4UnumRSs_pUCHd5HpLDRmCKtbRR5M7s92q9xV5dLSilA&usqp=CAU" group-title="Aberta",Getsêmani Monte Alto
 https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/media_files_prod/uploads/tertiarygroup/2056/tertiarygroup-92316041c22a3639e7046de1f40cd41f.png" group-title="Religioso", Rede super
-https://playback2.akamaized.net/streams/10205943_10199127_lsi5jdy902j8q0l6dv9_1/exp=1678976875~acl=%2f*~data=hdntl~hmac=e65edc5e33d29447ddafe084b0527ce0c9d9e0852d1905952345f852da05ed3a/media/10205943_10199127_lsi5jdy902j8q0l6dv9_1@1756000p.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo RJ
-https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401678908389141849253916788219891803837289DHpIC-rcsEcbJUc6EreR7Q/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=96000-video=2262976.m3u8?dvr_window_length=120
+https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401679075085135215686816789886858781770330q9bK_v-IBzqtzxsbb7uP4Q/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=96000-video=2262976.m3u8?dvr_window_length=120
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo SP
-https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401678908426762051075516788220261255646037n2F_dhPBG-BzfJn-tPVw5w/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-sp1/globo-sp1-audio_1=128000-video=2378944.m3u8?dvr_window_length=120
+https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401679075157379941839916789887573759685716H8IhRugHwKKRVpLvD2_WVg/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-sp1/globo-sp1-audio_1=128000-video=2378944.m3u8?dvr_window_length=120
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -96,6 +95,9 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="Infantil", Kuriakos Kids
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/oU6kGbl.png" group-title="Infantil",TV FRONTEIRA KIDS
+https://srv5.zcast.com.br/fronteirakids/fronteirakids/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede_famc3adlia.png" group-title="Religioso", Rede Família
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
 
@@ -126,6 +128,9 @@ https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w182810492
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f333f62031ea09120c0612d302fe366c.webp" group-title="Religioso", TV Feliz
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w203077480.m3u8
 
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/media_files_prod/uploads/tertiarygroup/2056/tertiarygroup-92316041c22a3639e7046de1f40cd41f.png" group-title="Religioso", Rede super
+http://api.new.livestream.com/accounts/10205943/events/10199127/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="Religioso", Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
@@ -145,12 +150,12 @@ https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w1489634311
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="Filmes",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospelmusic.jpg" group-title="Música",Gospel Music
 https://stmv1.painelvideo.top/gmusic/gmusic/chunklist_w1243269784.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospelmusic.jpg" group-title="Música",Música Gospel
-https://stmv1.painelvideo.top/gmusic/gmusic/chunklist_w1243269784.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="Pública", FonteTV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="Pública", FonteTV 
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="Filmes",CBC Gospel
@@ -159,7 +164,13 @@ https://tv01.livemustv.com.br/cbctv/cbctv/chunklist_w1692844066.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cinekuriakos.png" group-title="Filmes",KURIAKOS CINE
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/iG0cxEB.png" group-title="Música",GOSTEI GOSPEL TV
+https://59f1cbe63db89.streamlock.net:1443/gospeltv/_definst_/gospeltv/chunklist_w1037955183.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvredeboasnovas.png" group-title="Religioso", Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="Religioso",BOAS NOVAS
 https://cdn.jmvstream.com/w/AVJ-12960/playlist/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvredeboasnovas.png" group-title="Religioso", Jesus Cristo
