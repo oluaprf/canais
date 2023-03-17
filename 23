@@ -5,6 +5,9 @@ https://raw.githubusercontent.com/oluaprf/canais/main/23
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rl_k45mCdk23BHODbAaEoT_4UnumRSs_pUCHd5HpLDRmCKtbRR5M7s92q9xV5dLSilA&usqp=CAU" group-title="Aberta",Getsêmani Monte Alto
 https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo SP
+https://live-as-03-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDMtMzMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjc5MTY3Mjg4LCJpYXQiOjE2NzkwODA4ODgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMjEzODBiYjUtOGFlNy00OTBjLTk2ZjUtNDBiZDg5NmEwZGVhIiwicGF0aCI6Ii9kL2MvMngvcy9obHMtZ2xvYm8tc2pyL3BsYXlsaXN0Lm0zdTgifQ.wpgXsOJA5WPvOACAJzkzi4OW86IE5x1Gj4W0wRtzhrhrZvayu2aCWoVfpPauluuJoHZH6bfmokMAIcrdzIHEMnjRYdlCVsC-3kDwwir-K-sRK36-7evw1xmhQCMpzp2_2hClr_L7vhcQaDtIpbAoFgl7L2g3DLMxdPb9D_CxZ7v8lWUpz3lPkf1u6jneiTb3ndWr53jF8EmBIsyn3V99J-Q3AAoLvJD_8_bQdvbKJ3hzzwj02LYB8RH2gJCQxjqgXOOTtv0dmjq7nMaPId8BsCyxfkoLe5g0BENDu4eO-xt66yySM0eBDvtqt0h-SphR6ZnwYC9MhHNdFYZ5ZRbPgA/d/c/2x/s/hls-globo-sjr/hls-globo-sjr_2359/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo RJ
 https://live-01.edge-vivo-mcz-al.video.globo.com/h/0401679075085135215686816789886858781770330q9bK_v-IBzqtzxsbb7uP4Q/k/html5/a/F/nu/f(bMax=3300000,bMin=2000,dvr=120,i=2)/globo-rj/globo-rj-audio_1=96000-video=2262976.m3u8?dvr_window_length=120
 
