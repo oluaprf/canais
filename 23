@@ -1,7 +1,5 @@
 #EXTM3U
 
-https://raw.githubusercontent.com/oluaprf/canais/main/23
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rl_k45mCdk23BHODbAaEoT_4UnumRSs_pUCHd5HpLDRmCKtbRR5M7s92q9xV5dLSilA&usqp=CAU" group-title="Aberta",Getsêmani Monte Alto
 https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 
