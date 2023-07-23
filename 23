@@ -4,7 +4,13 @@
 https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo SP
-https://live-as-03-33.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDMtMzMudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNjc5MTY3Mjg4LCJpYXQiOjE2NzkwODA4ODgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMjEzODBiYjUtOGFlNy00OTBjLTk2ZjUtNDBiZDg5NmEwZGVhIiwicGF0aCI6Ii9kL2MvMngvcy9obHMtZ2xvYm8tc2pyL3BsYXlsaXN0Lm0zdTgifQ.wpgXsOJA5WPvOACAJzkzi4OW86IE5x1Gj4W0wRtzhrhrZvayu2aCWoVfpPauluuJoHZH6bfmokMAIcrdzIHEMnjRYdlCVsC-3kDwwir-K-sRK36-7evw1xmhQCMpzp2_2hClr_L7vhcQaDtIpbAoFgl7L2g3DLMxdPb9D_CxZ7v8lWUpz3lPkf1u6jneiTb3ndWr53jF8EmBIsyn3V99J-Q3AAoLvJD_8_bQdvbKJ3hzzwj02LYB8RH2gJCQxjqgXOOTtv0dmjq7nMaPId8BsCyxfkoLe5g0BENDu4eO-xt66yySM0eBDvtqt0h-SphR6ZnwYC9MhHNdFYZ5ZRbPgA/d/c/2x/s/hls-globo-sjr/hls-globo-sjr_2359/playlist.m3u8
+http://p2z.me:80/pauloR/692860/1336081.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo SP
+http://p2z.me:80/pauloR/692860/1505302.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo EPTV Campinas
+http://p2z.me:80/pauloR/692860/1505081.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -37,10 +43,10 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV  SP
-https://br.embedflix.net/p2p/recordsp/chunks.m3u8
+http://p2z.me:80/pauloR/692860/55259.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV RN
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV
+http://p2z.me:80/pauloR/692860/86418.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV NDTV SC
 https://caikron.com.br:19360/criciuma/criciuma.m3u8
@@ -55,7 +61,7 @@ https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm49WMc8jwDn2OKYcEsU
 https://streaming.gruporba.com.br/rba.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
+http://p2z.me:80/pauloR/692860/86415.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV!
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
