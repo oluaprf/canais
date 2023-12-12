@@ -3,19 +3,22 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rl_k45mCdk23BHODbAaEoT_4UnumRSs_pUCHd5HpLDRmCKtbRR5M7s92q9xV5dLSilA&usqp=CAU" group-title="Aberta",Getsêmani Monte Alto
 https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo SP
-http://p2z.me:80/pauloR/692860/1336081.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo EPTV Rib
+http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaItdq0Nt8GXJi2LFzWBKlhrU/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo SP
-http://p2z.me:80/pauloR/692860/1505302.m3u8
+http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaIpOg4pC70FBknTHpwk0MdaI/m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo EPTV Campinas
-http://p2z.me:80/pauloR/692860/1505081.m3u8
+http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaIjEI7xLmXsB8gbJNc_Za5Eg/m3u8
+
+#EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD⁵" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO HD⁵
+http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaIsrbso4qnVBloa3XRBQ3MoA/m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta", SBT - TV Cidade Verde - (PI)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta", SBT - TV Cidade Verde
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT - TV Difusora (MA)
@@ -24,8 +27,8 @@ https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT Rede Massa (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvparaense.png" group-title="Aberta", SBT TV Paraense (PA)
-https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvparaense.png" group-title="Aberta", SBT VTV
+http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaInr2xaTYqjvpaar0u4AfOE8/m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvguajara.png" group-title="Aberta", SBT TV Guajará (PA)
 https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
@@ -33,8 +36,8 @@ https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Abertas", SBT - TV Jornal (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta", SBT - TV Jornal Caruaru (PE)
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta", SBT 
+http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaImRuze1GL0xDARRRSLXg650/m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="Aberta", SBT TV Aratu (BA)
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
@@ -43,13 +46,13 @@ https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV  SP
-http://p2z.me:80/pauloR/692860/55259.m3u8
+http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaIoHJqiQ7-5F6kWE6MSQIErk/m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV
-http://p2z.me:80/pauloR/692860/86418.m3u8
+http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaIqfFpU9zJAoxoc6scYUVQN8/m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV NDTV SC
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV 
+http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaInAeKz9djrcYeOl-yWYfn2Y/m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV
 https://h5dqr5efme.zoeweb.tv/familia/smil:familia.smil/chunklist_w983619253_b2270208.m3u8
@@ -176,6 +179,3 @@ https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="Religioso",BOAS NOVAS
 https://cdn.jmvstream.com/w/AVJ-12960/playlist/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvredeboasnovas.png" group-title="Religioso", Jesus Cristo
-https://anrwfbifua.zoeweb.tv/apalavra/apalavra/chunklist.m3u8
