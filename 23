@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rl_k45mCdk23BHODbAaEoT_4UnumRSs_pUCHd5HpLDRmCKtbRR5M7s92q9xV5dLSilA&usqp=CAU" group-title="Aberta",Getsêmani Monte Alto
 https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo EPTV Rib
-http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaItdq0Nt8GXJi2LFzWBKlhrU/m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo SP
 http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaIpOg4pC70FBknTHpwk0MdaI/m3u8
 
