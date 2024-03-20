@@ -4,7 +4,7 @@
 https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo SP
-http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaIpOg4pC70FBknTHpwk0MdaI/m3u8
+https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.41&token=8145078ca4d16ac167a41989f3e78ffe6365daf3-2011ec4fbd3e3efb93fb1550e41ccc98-1710961575-1710957975
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aOfAlKn.png" group-title="Aberta",Globo EPTV Campinas
 http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaIjEI7xLmXsB8gbJNc_Za5Eg/m3u8
@@ -13,7 +13,7 @@ http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaIjEI7xLmXsB8gbJNc_Za5Eg/
 http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaIsrbso4qnVBloa3XRBQ3MoA/m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT Interior SP
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta", SBT - TV Cidade Verde
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
