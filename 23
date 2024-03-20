@@ -135,6 +135,9 @@ https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w203077480.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/media_files_prod/uploads/tertiarygroup/2056/tertiarygroup-92316041c22a3639e7046de1f40cd41f.png" group-title="Religioso", Rede super
 http://api.new.livestream.com/accounts/10205943/events/10199127/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/media_files_prod/uploads/tertiarygroup/2056/tertiarygroup-92316041c22a3639e7046de1f40cd41f.png" group-title="Religioso", Rede super
+https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w242952758.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="Religioso", Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 
