@@ -150,6 +150,9 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="Religioso",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="Religioso",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3332f4a3f31efb3b808957eac3458616.png" group-title="Religioso",Cristo Vive
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w1489634311.m3u8
 
@@ -179,3 +182,10 @@ https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/alJazo3.png" group-title="Religioso",BOAS NOVAS
 https://cdn.jmvstream.com/w/AVJ-12960/playlist/chunklist.m3u8
+
+#EXTINF:-1 https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b4cd2b4135c03b25ffe91155d90de53f.webp
+https://stmv4.voxtvhd.com.br/1990/1990/chunklist_w673741524.m3u8
+
+#EXTINF:-1 https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1bc7b6d5e923405e1e1d47769ad4317.webp
+https://srv3.zcast.com.br/universo3/universo3/chunklist_w1607389172.m3u8
+
