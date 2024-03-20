@@ -7,7 +7,7 @@ https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.41&token=8145078ca4d16ac167a41989f3e78ffe6365daf3-2011ec4fbd3e3efb93fb1550e41ccc98-1710961575-1710957975
 
 #EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD⁵" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO
-http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaIjEI7xLmXsB8gbJNc_Za5Eg/m3u8
+https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.41&token=833aa849b07ee0c7b281b56e6ee778a5fa338823-1927ea347369cbc412e18559e3dad7fa-1710962558-1710958958
 
 #EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD⁵" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO HD⁵
 https://server11.net/globo-rj/tracks-v1a1/mono.m3u8?remote=200.176.12.41&token=d7c2a005278f979dd87105abf63c3f511a40bdd7-3d3cf43f767f2302501882353636e25e-1710962175-1710958575
