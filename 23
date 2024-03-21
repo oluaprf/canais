@@ -63,11 +63,12 @@ https://live-c2.cf.dmcdn.net/sec2(PAyfN6OXu8HqABkNJu2s5EL5L5kWKTA5VTI6XFJaUWuQp2
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV!
-https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w204300879.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band SP
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV!
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w204300879.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Aberta", TV Pampa 
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
