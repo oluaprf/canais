@@ -13,7 +13,7 @@ https://server11.net/globo-rj/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=e
 https://server11.net/globo-mg/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=c2c7f34d626d5e97c54424be57657402ada2e732-8aefaf036472ee86aa2c7798adb66281-1711132903-1711129303
 
 #EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO HD⁵
-https://sinalpublico.cc/player3/ch.php?canal=bobosp" frameborder=0 height=400 scrolling=no width=640 allow="encrypted-media
+<iframe name=Player "" src="https://sinalpublico.cc/player3/ch.php?canal=bobosp" frameborder=0 height=400 scrolling=no width=640 allow="encrypted-media" allowFullScreen> </iframe>
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT Interior SP
 https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
