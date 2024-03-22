@@ -3,17 +3,17 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rl_k45mCdk23BHODbAaEoT_4UnumRSs_pUCHd5HpLDRmCKtbRR5M7s92q9xV5dLSilA&usqp=CAU" group-title="Aberta",Getsêmani Monte Alto
 https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 
-#EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD⁵" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO 
+#EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO 
 https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=845619bb93a1680ac7e918b012ad505bd976fd44-ad613b6f86bc6700302d7097ae69ce87-1711132438-1711128838
 
-#EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD⁵" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO 
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711066380/ei/rHj8ZdS7FPPg-LAPnJKCoAE/ip/2804:7efc:28:3000:9451:db48:8603:f9ff/id/ABVQXgr2LW4.6/itag/231/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hdlc/1/hls_chunk_host/rr9---sn-8p8v-bg06.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/gcr/br/vprv/1/playlist_type/DVR/initcwndbps/1430000/mh/mT/mm/44/mn/sn-8p8v-bg06/ms/lva/mv/m/mvi/9/pl/40/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1711044517/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AJfQdSswRAIgOsjgIuy-GiSiaUSfbm-vNI7RF8B37H6cMNlL8w1S_j4CIBuLMJQJb39HGiT9WybMJa5Id7rU-7gB404O6rt73LNB/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAPG_IDoVwKUzDPg3vN8I30ZF_73_Pns9okAEBR_9CAbtAiEAuKuOZ9liSTCCFQIUQF8-ZOs3Hu5J9g6PfIGjlnH_cJg%3D/playlist/index.m3u8
+#EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO 
+https://server11.net/globo-rj/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=e82a0ab1e2ff066e8f53e998a1847380d0e491fd-e624f7ecf7a2dc14a4cbc854c2bdb686-1711132735-1711129135
 
-#EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD⁵" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO
-https://server11.net/globo-rj/tracks-v1a1/mono.m3u8?remote=200.176.12.41&token=6d1625f0aea060ffbe897e0ff265fe26054a911d-5ed9d7945135cce58f846022283cc235-1711047630-1711044030
+#EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO
+https://server11.net/globo-mg/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=c2c7f34d626d5e97c54424be57657402ada2e732-8aefaf036472ee86aa2c7798adb66281-1711132903-1711129303
 
-#EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD⁵" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO HD⁵
-https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.41&token=05c99ad5ac3b3275c93bfd0cb0083a99a9bd5b28-0ee5e1f5869847066b6a43ff39a9c49b-1711046211-1711042611
+#EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO HD⁵
+https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=845619bb93a1680ac7e918b012ad505bd976fd44-ad613b6f86bc6700302d7097ae69ce87-1711132438-1711128838
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT Interior SP
 https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
