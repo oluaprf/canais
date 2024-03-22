@@ -4,16 +4,16 @@
 https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 
 #EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO 
-https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=845619bb93a1680ac7e918b012ad505bd976fd44-ad613b6f86bc6700302d7097ae69ce87-1711132438-1711128838
+https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=4f88ccd2f240a95337e87f51c0ff0433d8182aa8-ece814c755a4b5e26a1d094e01d92fe5-1711136735-1711133135
 
 #EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO 
-https://server11.net/globo-rj/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=e82a0ab1e2ff066e8f53e998a1847380d0e491fd-e624f7ecf7a2dc14a4cbc854c2bdb686-1711132735-1711129135
+https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=4f88ccd2f240a95337e87f51c0ff0433d8182aa8-ece814c755a4b5e26a1d094e01d92fe5-1711136735-1711133135
 
 #EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO
 https://server11.net/globo-mg/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=c2c7f34d626d5e97c54424be57657402ada2e732-8aefaf036472ee86aa2c7798adb66281-1711132903-1711129303
 
 #EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO HD⁵
-https://sinalpublico.cc/player3/ch.php?canal=bobosp" frameborder=0 height=720 scrolling=no width=1270 allow="encrypted-media" allowFullScreen
+https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=4f88ccd2f240a95337e87f51c0ff0433d8182aa8-ece814c755a4b5e26a1d094e01d92fe5-1711136735-1711133135
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT Interior SP
 https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
