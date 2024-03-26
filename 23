@@ -4,7 +4,7 @@
 https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 
 #EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO 
-https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=4f88ccd2f240a95337e87f51c0ff0433d8182aa8-ece814c755a4b5e26a1d094e01d92fe5-1711136735-1711133135
+https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=9fd5eeb17575a8f85b177e67dc94c29034c14f33-c5293e18043832fd59c5845237f85416-1711478702-1711475102
 
 #EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO 
 https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=4f88ccd2f240a95337e87f51c0ff0433d8182aa8-ece814c755a4b5e26a1d094e01d92fe5-1711136735-1711133135
@@ -13,7 +13,7 @@ https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=4
 https://server11.net/globo-mg/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=c2c7f34d626d5e97c54424be57657402ada2e732-8aefaf036472ee86aa2c7798adb66281-1711132903-1711129303
 
 #EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO HD⁵
-https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=4f88ccd2f240a95337e87f51c0ff0433d8182aa8-ece814c755a4b5e26a1d094e01d92fe5-1711136735-1711133135
+https://embedflix.info/p2p/globorj/chunks.m3u8?nimblesessionid=12816246&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDI0IDU6NTQ6NTkgUE0maGFzaF92YWx1ZT1mN1dCQWJTZ0JFem1xSDJvUmxWc01nPT0mdmFsaWRtaW51dGVzPTE2MA==
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT Interior SP
 https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
