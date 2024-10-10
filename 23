@@ -3,29 +3,33 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rl_k45mCdk23BHODbAaEoT_4UnumRSs_pUCHd5HpLDRmCKtbRR5M7s92q9xV5dLSilA&usqp=CAU" group-title="Aberta",Getsêmani Monte Alto
 https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
 
-#EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO 
-https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=9fd5eeb17575a8f85b177e67dc94c29034c14f33-c5293e18043832fd59c5845237f85416-1711478702-1711475102
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO 
-https://server11.net/globo-sp/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=4f88ccd2f240a95337e87f51c0ff0433d8182aa8-ece814c755a4b5e26a1d094e01d92fe5-1711136735-1711133135
-
-#EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO
-https://server11.net/globo-mg/tracks-v1a1/mono.m3u8?remote=200.176.12.42&token=c2c7f34d626d5e97c54424be57657402ada2e732-8aefaf036472ee86aa2c7798adb66281-1711132903-1711129303
-
-#EXTINF:-1 xui-id="457120" tvg-id="" tvg-name="TV GLOBO SAO PAULO HD" tvg-logo="http://conexaogohtube.cloud:80/images/b56b755a4596704676cd94ae11ce9f66.png" group-title="Canais | Globos",TV GLOBO SAO PAULO HD⁵
-https://embedflix.info/p2p/globorj/chunks.m3u8?nimblesessionid=12816246&wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDI0IDU6NTQ6NTkgUE0maGFzaF92YWx1ZT1mN1dCQWJTZ0JFem1xSDJvUmxWc01nPT0mdmFsaWRtaW51dGVzPTE2MA==
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT Interior SP
-https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta", SBT - TV Cidade Verde
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Cidade Verde - (PI)
 https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT - TV Difusora (MA)
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png" group-title="Variedades",SBT - TV Difusora (MA)
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png" group-title="Variedades",SBT Rede Massa (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta",SBT Rede Massa (PR)
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/07/thathi.png" group-title="Variedades", SBT TV Thathi (SP)
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvguajara.png" group-title="Variedades", SBT TV Guajará (PA)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvaratu.png" group-title="Variedades", SBT TV Aratu (BA)
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/07/sbtrio.png" group-title="Variedades",SBT Rio (Youtube)
+https://ythls-v3.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/wp-content/uploads/2023/07/sbtrs.png" group-title="Variedades",SBT RS (Youtube)
+https://ythls-v3.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvparaense.png" group-title="Aberta", SBT VTV
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
@@ -42,20 +46,23 @@ http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaImRuze1GL0xDARRRSLXg650/
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvaratu.png" group-title="Aberta", SBT TV Aratu (BA)
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV
-https://server11.net/record/tracks-v1a1/mono.m3u8?remote=200.176.12.41&token=866644ef5bef95920fdacf9835cfd2b9ff239440-68d8b36ea44acc4dcd6b39410bd4addb-1710962843-1710959243
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV MT
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV 
-https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV MT 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV
-http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaIqfFpU9zJAoxoc6scYUVQN8/m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV 
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV MT 3
 https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Aberta", RecordTV
-http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaInAeKz9djrcYeOl-yWYfn2Y/m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV RN
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV NDTV SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recnews.png" group-title="Jornalismo",Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band SP
 https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w816982546.m3u8
@@ -127,13 +134,19 @@ https://video02.kshost.com.br/edinardo2448/edinardo2448/chunklist_w1653887161.m3
 https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2b1ea269f673bbd4459aa53f2b78ff14.webp" group-title="Religioso", Plenitude TV
+https://meupainel.top:1936/iaptd/iaptd/chunklist_w1873196058.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2b1ea269f673bbd4459aa53f2b78ff14.webp" group-title="Religioso", Plenitude TV
 https://meupainel.top:1936/iaptd/iaptd/chunklist_w687859922.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c50659beeacb05f3655fabb042cd8331.webp" group-title="Religioso", Adorador
 https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/chunklist_w1150608011.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7bb03f2570993c82583a8ce9f2e1a4c4.webp" group-title="Religioso", Mais Família
-https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/chunklist_w1828104926.m3u8
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7bb03f2570993c82583a8ce9f2e1a4c4.webp" group-title="Religioso", Mais Família
+https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w1423850687.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f333f62031ea09120c0612d302fe366c.webp" group-title="Religioso", TV Feliz
 https://video01.logicahost.com.br/tvfeliz/tvfeliz/chunklist_w203077480.m3u8
@@ -158,6 +171,10 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="Religioso",Rede Gospel
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/redegospel.png" group-title="Religioso",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3332f4a3f31efb3b808957eac3458616.png" group-title="Religioso",Cristo Vive
 https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w1489634311.m3u8
