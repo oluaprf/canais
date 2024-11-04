@@ -43,11 +43,14 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Aberta", SBT 
 http://conexaogohtube.cloud:80/play/VGtGHjZ1XSHnNplAymRaImRuze1GL0xDARRRSLXg650/m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV GLOBO SP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV GLOBO SP
 http://cdn-2.nxplay.com.br/TV_TEM_TK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zldYz3t.png" group-title="Canais | GLOBO",TV GLOBO SP SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV GLOBO SP SD
 http://cdn-2.nxplay.com.br/TV_TEM_TK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",TV GLOBO SD
+https://cdn-2.nxplay.com.br/GLOBO_SP_TK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV SP
 https://stream1.freetv.fun/record-sp-2-1.m3u8
@@ -74,12 +77,12 @@ https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
 https://stream1.freetv.fun/band-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band
-https://stream1.freetv.fun/band-1.m3u8
+http://170.80.69.8:8000/play/a0dl/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV!
 https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w204300879.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Aberta", RedeTV SP
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV!
 https://cdn2.easy.tv.br/redetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV!
@@ -88,7 +91,7 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="Aberta", RedeTV Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="Aberta", RedeTV RP
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV RP
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Aberta", TV Gazeta SP - Araçatuba
