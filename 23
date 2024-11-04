@@ -88,10 +88,10 @@ https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist_w204300879.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV!
 https://cdn2.easy.tv.br/redetv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="Aberta", RedeTV Tocantins
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/589/704/png-transparent-tv-redetv-logo-tv-cultura-television-show-rede-globo-band-novo-tempo.png" group-title="Aberta", RedeTV RP
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV RP
 https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Aberta", TV Gazeta SP - Araçatuba
