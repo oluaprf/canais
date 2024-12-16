@@ -34,7 +34,7 @@ http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 http://15.235.15.230:14487/
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV SP
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV FAZENDA
 https://cr7v.short.gy/25mensais/A1/Whats7591634025.m3u8
@@ -43,13 +43,13 @@ https://cr7v.short.gy/25mensais/A1/Whats7591634025.m3u8
 https://5a2b083e9f360.streamlock.net/tvmt/tvmt.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV RN
-http://186.226.215.132:80/carlos123/carlos123/56
+https://spo4.akamaized.net/linear/hls/pa/event/8ssSlUQxSUimorxHsFz_SQ/stream/6963fb93-1b3a-4aec-9908-d535ed4d1299:SCL/master.m3u8??hdnts=exp=1734347777~acl=/*~hmac=5c65ff89be2aa4eeeaac304b6b3b08a1591ee6b321ac3497666d633498ceb36b&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2237fcef68-3e81-42ef-8c01-dc5a668f1c8e%22%2Csu
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV SP
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
+https://spo4.akamaized.net/linear/hls/pa/event/8ssSlUQxSUimorxHsFz_SQ/stream/6963fb93-1b3a-4aec-9908-d535ed4d1299:SCL/variant/c4abf586dea8cf89652263cfec1d873d/bandwidth/5287612.m3u8?hdntl=exp=1734434006~acl=%2f*~data=hdntl~hmac=98e76acffcb6355a0a09b2fe0e445e460e02c2d7d4e934715b62c09b8b87a5a5
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recnews.png" group-title="Jornalismo",Record News
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+https://stream.ads.ottera.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
