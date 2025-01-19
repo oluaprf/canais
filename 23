@@ -238,6 +238,15 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/342
 #EXTINF:-1 tvg-logo="https://imgur.com/lzBM8Gh.png" group-title="Canais | ABERTO",TV gospel
 https://5cf4a2c2512a2.streamlock.net/8036/8036/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB Cam 1
+https://cr7v.short.gy/ManoTVfree/BBB01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB Cam 2
+https://cr7v.short.gy/ManoTVfree/BBB02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",Mosaico
+https://cr7v.short.gy/ManoTVfree/CMosaico/index.m3u8
+
 
 
 
