@@ -46,7 +46,7 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 https://cr7v.short.gy/ManoiTV/BBB01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB Cam 2
-https://cr7v.short.gy/ManoiTV/BBB02/index.m3u8
+http://conexao-vs.live/BBB1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",Mosaico
 https://cr7v.short.gy/ManoiTV/CMosaico/index.m3u8
