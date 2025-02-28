@@ -42,6 +42,9 @@ https://new.m3u8.one/globosp/index.m3u8
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-da-globo-png.png" group-title="Canais | GLOBO",EPTV RP SD
 http://senior123.link:80/105367227/f513W6250E/2384
 
+#EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-da-globo-png.png" group-title="Canais | GLOBO",EPTV RP
+http://78.159.119.70:2082/Tourobox2-m8RNXNdfKy/6ZbiauYKzf/1011
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB Cam 1
 https://new.m3u8.one/bbb1/index.m3u8
 
@@ -81,6 +84,9 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band SP
 https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band SP1
+http://78.159.119.70:2082/Tourobox2-m8RNXNdfKy/6ZbiauYKzf/485
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band
 http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/41530.m3u8
