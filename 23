@@ -51,6 +51,9 @@ https://new.m3u8.one/bbb1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB Cam 2
 http://conexao-vs.live/BBB1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB Cam 3
+http://cdn11.cc:80/RomuloCF/102030/259872.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",Mosaico
 https://cr7v.short.gy/MiTV/CMosaico/index.m3u8
 
@@ -77,7 +80,7 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BAND" tvg-logo="https://i.imgur.com/yyFeDm7.png" group-title="Canais ABERTO",Band SP1
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+http://cdn11.cc:80/RomuloCF/102030/113583.ts
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
