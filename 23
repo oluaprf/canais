@@ -58,7 +58,7 @@ http://cdn11.cc:80/RomuloCF/102030/259872.ts
 https://cr7v.short.gy/MiTV/CMosaico/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV SP
-http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
+http://cdn11.cc:80/RomuloCF/102030/30178.ts
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV SP
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8
@@ -66,9 +66,8 @@ https://alanza.iptv2022.com/sh/RecordTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV SP1
 https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
 
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV MT
-https://alanza.iptv2022.com/sh/RecordTV/index.m3u8?
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV CAMPINAS
+http://cdn11.cc:80/RomuloCF/102030/92667.ts
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recordtv.png" group-title="Variedades", RecordTV RN
 https://spo4.akamaized.net/hls/live/2029736/spo4/index.m3u8
@@ -123,6 +122,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Aberta", Multishow
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/423
+
+#EXTINF:-1 tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Aberta", Multishow
+http://cdn11.cc:80/RomuloCF/102030/10.ts
 
 #EXTINF:-1 tvg-id="GNT" tvg-logo="https://imgur.com/8RDEcE9.png" group-title="Canais | VARIEDADES",GNT HD
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/107
