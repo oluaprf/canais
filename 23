@@ -28,10 +28,10 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-da-globo-png.png" group-title="Canais | GLOBO",EPTV RP
-http://senior123.link:80/105367227/f513W6250E/2385
+http://cdn11.cc:80/RomuloCF/102030/122760.ts
 
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-da-globo-png.png" group-title="Canais | GLOBO",TV GLOBO SP1
-http://tv.fazoeli.co.za/m3u8/globosp.m3u8
+http://cdn11.cc:80/RomuloCF/102030/122761.ts
 
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-da-globo-png.png" group-title="Canais | GLOBO",TV GLOBO SP2
 http://conexao-vs.live/GLOBO/index.m3u8
@@ -40,7 +40,7 @@ http://conexao-vs.live/GLOBO/index.m3u8
 https://new.m3u8.one/globosp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-da-globo-png.png" group-title="Canais | GLOBO",EPTV RP SD
-http://senior123.link:80/105367227/f513W6250E/2384
+http://cdn11.cc:80/RomuloCF/102030/122761.ts
 
 #EXTINF:-1 tvg-logo="https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-da-globo-png.png" group-title="Canais | GLOBO",EPTV RP
 http://78.159.119.70:2082/Tourobox2-m8RNXNdfKy/6ZbiauYKzf/1011
@@ -79,7 +79,7 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recnews.png" group-title="Jornalismo",Record News
 https://stream.ads.ottera.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BAND" tvg-logo="https://i.imgur.com/yyFeDm7.png" group-title="Canais ABERTO",Band SP1
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band SP1
 http://cdn11.cc:80/RomuloCF/102030/113583.ts
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band
@@ -89,7 +89,7 @@ https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 https://cdn-2.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band SP1
-http://78.159.119.70:2082/Tourobox2-m8RNXNdfKy/6ZbiauYKzf/485
+http://cdn11.cc:80/RomuloCF/102030/113583.ts
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band
 http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/41530.m3u8
