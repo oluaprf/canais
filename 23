@@ -14,8 +14,9 @@ https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png" group-title="aberta",SBT SD
 https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/97c366f1-04a1-4eb9-af9f-dc0cb261a0d7/5.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png" group-title="aberta",SBT SP1
-http://senior123.link:80/105367227/f513W6250E/244170
+https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/97c366f1-04a1-4eb9-af9f-dc0cb261a0d7/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/tvguajara.png" group-title="aberta", SBT TV Guajará (PA)
 https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
