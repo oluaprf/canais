@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rl_k45mCdk23BHODbAaEoT_4UnumRSs_pUCHd5HpLDRmCKtbRR5M7s92q9xV5dLSilA&usqp=CAU" group-title="Aberta",Getsêmani Monte Alto
-https://ssh101.bozztv.com/ssh101/getsemanitv/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/iecptv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/sbt.png" group-title="aberta",SBT Interior SP
 https://aovivo.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/indexMobile.m3u8
