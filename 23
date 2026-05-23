@@ -84,27 +84,8 @@ http://senior123.link:80/105367227/f513W6250E/255469
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV!
 https://live.eu-north-1b.cf.dmcdn.net/sec2(SAM2idl86hthmLGxUjSZRZg50wciGkRudQNMQaEyUsvveplXS-lvNW1N3LfIi_skTttDUYGslhXU1Dnvxd4Fi3OWVQuisyESqI_88fJRKFT0F6v4-tnwKHPuyZ27ggpv)/dm/3/x8xps0s/d/live-720.m3u8#cell=lcf-eu-north-1b
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV!
-https://cdn2.easy.tv.br/redetv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV Tocantins
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV RP
-https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV SP1
-https://cdn.jmvstream.com/w/AVJ-15235/playlist/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV SP
-https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV SP
-https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=sa msung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&devi ceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_do main=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+https://live.eu-north-1b.cf.dmcdn.net/sec2(SAM2idl86hthmLGxUjSZRZg50wciGkRudQNMQaEyUsvveplXS-lvNW1N3LfIi_skTttDUYGslhXU1Dnvxd4Fi3OWVQuisyESqI_88fJRKFT0F6v4-tnwKHPuyZ27ggpv)/dm/3/x8xps0s/d/live-720.m3u8#cell=lcf-eu-north-1b
 #EXTINF:-1 tvg-logo="https://imgur.com/a4lEiwk.png" group-title="Aberta", Multishow
 http://mxlive.info:2052/mai70/1510/180483
 
