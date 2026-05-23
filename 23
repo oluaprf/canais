@@ -160,13 +160,10 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_
 https://video02.kshost.com.br/edinardo2448/edinardo2448/chunklist_w1653887161.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2b1ea269f673bbd4459aa53f2b78ff14.webp" group-title="Religioso", Plenitude TV
-https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2b1ea269f673bbd4459aa53f2b78ff14.webp" group-title="Religioso", Plenitude TV
-https://meupainel.top:1936/iaptd/iaptd/chunklist_w1873196058.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2b1ea269f673bbd4459aa53f2b78ff14.webp" group-title="Religioso", Plenitude TV
-https://meupainel.top:1936/iaptd/iaptd/chunklist_w687859922.m3u8
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c50659beeacb05f3655fabb042cd8331.webp" group-title="Religioso", Adorador
 https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/chunklist_w1150608011.m3u8
