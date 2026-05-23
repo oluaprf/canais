@@ -63,23 +63,14 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/recnews.png" group-title="Jornalismo",Record News
 https://stream.ads.ottera.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band SP1
-https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-360p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImFmNzkwNDM1LTYxMGYtNDY1MC04OGRlLWQwZjZlOWRjY2Y1YiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc3OTQ5NzczNSwibmJmIjoxNzc5NDk3NzM1LCJleHAiOjE3ODIwODk3MzUsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6ImFmNzkwNDM1LTYxMGYtNDY1MC04OGRlLWQwZjZlOWRjY2Y1YiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.-CubKVG2-Gq0RoysYkgVWFrFrI35xh75DfQh22-QBEg&uid=af790435-610f-4650-88de-d0f6e9dccf5b
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band SP
-http://mxlive.info:2052/mai70/1510/242
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band SP1
-http://cdn11.cc:80/RomuloCF/102030/113583.ts
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band1
 http://mxlive.info:2052/mai70/1510/129
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Aberta",Band
-http://senior123.link:80/105367227/f513W6250E/255469
+chrome-extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html#https://dai.google.com/linear/hls/pa/event/f0Tz47QTSQy_RsfSP_WcSA/stream/09550567-2a80-4116-bd65-50c4a9382aec:SCL2/variant/db41dabc175aace8c60ccd8dd182f588/bandwidth/5160000.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Aberta", RedeTV!
 https://live.eu-north-1b.cf.dmcdn.net/sec2(SAM2idl86hthmLGxUjSZRZg50wciGkRudQNMQaEyUsvveplXS-lvNW1N3LfIi_skTttDUYGslhXU1Dnvxd4Fi3OWVQuisyESqI_88fJRKFT0F6v4-tnwKHPuyZ27ggpv)/dm/3/x8xps0s/d/live-720.m3u8#cell=lcf-eu-north-1b
